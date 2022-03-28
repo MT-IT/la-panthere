@@ -483,6 +483,24 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
+/* style.css | file:///Users/mtbaby/Documents/la-panthere/style.css */
+
+.txt-contact {
+    
+    font-size: 24px;
+    display: flex;
+    flex: ;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+  }
+  
+  .bloc-lg1 {
+    flex: ;
+    flex-direction: column;
+  }
+  
 button {
     outline: none!important;
 }
@@ -758,6 +776,20 @@ h2 {
     line-height: 1.4em;
 }
 
+
+
+h1.text-center {
+    background-color:rgba(0, 0, 0, .6);
+  }
+
+
+
+.text-center2 {
+    text-align: center;
+  }
+  
+  
+
 h3 {
     font-size: 15px;
     text-transform: uppercase;
@@ -831,7 +863,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: rgba(0,0,0,0.6);
 }
 
 .tc-white {
