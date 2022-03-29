@@ -28,8 +28,7 @@ a:hover {
 }
 
 .background {
-  background-color: #050301b2;
-  border-radius: 15%;
+  
   opacity: 80%;
   padding: 5%;
   width: 60%;
@@ -779,7 +778,7 @@ h2 {
 
 
 h1.text-center {
-    background-color:rgba(0, 0, 0, .6);
+    background-color:rgba(0, 0, 0, .1);
   }
 
 
